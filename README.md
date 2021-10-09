@@ -14,4 +14,4 @@ Create a ```userurl.txt``` file
 
 Add all your the Qwiklabs Public URLs  in to the ```userurl.txt``` 
 
-Then simply run ```python main.py```
+Then simply run ```python script.py```
