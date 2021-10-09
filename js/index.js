@@ -24,20 +24,19 @@ function getData() {
                 <div class="card-container">
                 <span class="pro">PRO</span>
 
-                    <img class="round" src="${member.dp}" alt="user" />
+                <img src="https://img.icons8.com/ios/100/000000/user-male-circle.png"/>
                     <h3>Rank #${i}</h3>
-                    <p>${member.name}</p>
-                    <p>Quests Completed: ${member.qcomplete_no}</p>
+                    <p><h3><a href="${member.profile_url}" style="color:white;" ><strong>${member.name}</strong></a></h3></p>
                     
                     <div class="skills">
-                        <h6>Track 1</h6>
+                        <h6>Latest Badges</h6>
                         <ul>
-                            <li>${member.track1}</li>
+                            <li>${member.badge_count}</li>
                             
                         </ul>
-                        <h6>Track 2</h6>
+                        <h6>Old Badges</h6>
                         <ul>
-                            <li>${member.track2}</li>
+                            <li>${member.old_badge_count}</li>
                             
                         </ul>
                     </div>
@@ -51,20 +50,20 @@ function getData() {
                 newRow.innerHTML = `
                 <div class="card-container">
 
-                    <img class="round" src="${member.dp}" alt="user" />
+                <img src="https://img.icons8.com/ios/100/000000/user-male-circle.png"/>
                     <h3>Rank #${i}</h3>
-                    <p>${member.name}</p>
-                    <p>Quests Completed: ${member.qcomplete_no}</p>
+                    <p><h3><a href="${member.profile_url}" style="color:white;"  ><strong>${member.name}</strong></a></h3></p>
+                   
                     
                     <div class="skills">
-                        <h6>Track 1</h6>
+                        <h6>Latest Badges</h6>
                         <ul>
-                            <li>${member.track1}</li>
+                            <li>${member.badge_count}</li>
                             
                         </ul>
-                        <h6>Track 2</h6>
+                        <h6>Old Badges</h6>
                         <ul>
-                            <li>${member.track2}</li>
+                            <li>${member.old_badge_count}</li>
                             
                         </ul>
                     </div>

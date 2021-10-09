@@ -43,38 +43,56 @@ def data_scraping (url):
     # Connect to the URL
 
 def data_gathering(link):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, "html.parser")
+    quests = soup.findAll('div', attrs = {'class':'profile-badge'})
+    latest_quest = []
+    user = dict()
+    user['name'] = soup.find('h1', attrs = {'class':'ql-headline-1'}).text
+    badge_count = 0
+    for quest in quests:
+        time=quest.find('span', attrs = {'class':'ql-body-2 l-mbs'})
+        date=time.text.split()
+        #print(date)
+        if(date[1]=='Oct' and date[2][0]=='9' and date[3]=='2021'):
+            badge_count+=1
+            latest_quest.append(quest.find('span', attrs = {'class':'ql-subhead-1 l-mts'}).text)
+    user['badges'] = latest_quest
+    user['badge_count'] = badge_count
+    user['profile_url'] = url
+    biglist.append(user)
     #t3 = time.time()
     #print("data gathering")
-    tempdic = {}
-    response = requests.get(link)
-    soup = BeautifulSoup(response.text, "html.parser")
-    track1completed = []
-    track2completed = []
-    profile = soup.findAll('div', attrs = {'class':'public-profile__hero'})[0]
-    dp = profile.img['src']
-    name = profile.h1.text
-    tempdic['name'] = name.strip()
-    tempdic['dp'] = dp
-    #tempdic['qlabid'] = link
-    quests = soup.findAll('ql-badge')
-    for quest in quests:
-        allquest = json.loads(quest.get('badge'))['title']
-        #print(allquest)
-        if allquest in track1:
-            track1completed.append(allquest)
-        if allquest in track2:
-            track2completed.append(allquest)
-    tempdic['track1'] = track1completed
-    tempdic['track2'] = track2completed
-    tempdic['qcomplete_no'] = len(track1completed) + len(track2completed)
-    #print(tempdic['qcomplete_no'])
+    # tempdic = {}
+    # response = requests.get(link)
+    # soup = BeautifulSoup(response.text, "html.parser")
+    # track1completed = []
+    # track2completed = []
+    # profile = soup.findAll('div', attrs = {'class':'public-profile__hero'})[0]
+    # dp = profile.img['src']
+    # name = profile.h1.text
+    # tempdic['name'] = name.strip()
+    # tempdic['dp'] = dp
+    # #tempdic['qlabid'] = link
+    # quests = soup.findAll('div', attrs = {'class':'profile-badge'})
+    # for quest in quests:
+    #     allquest = json.loads(quest.get('badge'))['title']
+    #     #print(allquest)
+    #     if allquest in track1:
+    #         track1completed.append(allquest)
+    #     if allquest in track2:
+    #         track2completed.append(allquest)
+    # tempdic['track1'] = track1completed
+    # tempdic['track2'] = track2completed
+    # tempdic['qcomplete_no'] = len(track1completed) + len(track2completed)
+    # #print(tempdic['qcomplete_no'])
 
-    if tempdic['qcomplete_no']!=0:
-        print(len(biglist)," ",tempdic['name']," ",tempdic['qcomplete_no']," ",tempdic['track1']," ",tempdic['track2'])
-        biglist.append(tempdic)
-        print("data saved")
-    else:
-        print("no badges")
+    # if tempdic['qcomplete_no']!=0:
+    #     print(len(biglist)," ",tempdic['name']," ",tempdic['qcomplete_no']," ",tempdic['track1']," ",tempdic['track2'])
+    #     biglist.append(tempdic)
+    #     print("data saved")
+    # else:
+    #     print("no badges")
     #t4 = time.time()
     #print(f"{t4-t3} seconds to download this profile.")
     #print("data saved")
