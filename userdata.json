@@ -1,0 +1,4330 @@
+[
+  null,
+  {
+    "name": "\nANJALI KUMARI\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/0afafd83-033f-4190-8173-098eb6ed62f5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nJeewant Malviya\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/07a95dbe-9d41-4ef9-acd3-620a73ef7720",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshit Kumar Rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/038bdcdc-02d9-4d68-8087-9f5df4b5867f",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nArush Vashishtha\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b44e16ab-f3e2-4ef6-aa2d-20fad62a8c6b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nUddeshya Kasaudhan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/deb7ce76-2587-42f3-bd29-ac9014eabf48",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\n\u04a1\u0475 \u03c3\u03c1\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/1e3fdb02-3b5d-4f0e-86af-ba64cfa60e7c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKavyansh Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b4f29495-ab55-4e24-a01c-39f7cceb25ce",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nRishabh Joshi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/aa03bbcf-f8b0-4786-bd09-88704332eae5",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nPrakhar Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/e872d32f-7400-4c55-b6c2-6f9a68fd44a6",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAvanindra Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3f8c0149-b66a-4056-8b47-6ae2e3b6f6b1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNishant Kumar Tiwari\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/cc9ca4e6-5fa5-4240-9aed-05baf0f353de",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nPRAKHAR PANDEY\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5d6ae3e2-f256-4f21-a825-e050e64e86d9",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nAkansha Deepak\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dd5ecdd5-465c-495b-b4e3-b86f8d9ea2e9",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  {
+    "name": "\nAyush Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c6960264-5c0d-4787-a14b-981284018b5c",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshit Agnihotri\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/374846e6-0a91-4a53-a3aa-25f0feace730",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nGaurav Tiwari\n",
+    "badges": ["\nEngineer Data in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a3467693-b13c-4b65-be3b-86c72a5bcb92",
+    "old_badge_count": 12,
+    "status": "success"
+  },
+  {
+    "name": "\nPoorvi  Varshney\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/05a11d6b-49a6-40a0-afa4-52118fd20574",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMayank Shukla\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5ed18c7e-9b3e-4a98-92ce-dd053e23c7f0",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/4c62a870-4a9c-405c-ae18-e0f006de0c2a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDiksha Trivedi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/cd2ebe94-b9fa-4079-aec5-05badbc306f0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAashutosh Mishra\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/7c018ea8-a9cf-4cc9-bfce-9b453d6a392c",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nMuzammil Khan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/63d02a65-def8-490a-a259-b27869e09a72",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMayank rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/1410539d-2c71-4842-87d8-4a4085bcd6f8",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nSuraj Maurya\n",
+    "badges": ["\nBuild and Secure Networks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5d1ad0df-d31a-4165-89bc-399686489d69",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nDeepanshu Sharma\n",
+    "badges": ["\nDeploy and Manage Cloud Environments with Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/594db13e-18da-4f5d-8e82-b9fbb8a55a80",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nRAVIKANT VARMA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/02260d55-7ef9-420c-8409-aa7b9bea5ec7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPiyush Goswami\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6951fc52-4d45-44ea-a3d2-ce224c6fe409",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nUtkarsh Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/057967f1-9cfd-4858-ae18-1f1d45f62924",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDaksh Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/16517e8e-b587-425b-97b0-2bd0283481fd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPrashant Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8c731f1c-c35c-4f41-8a94-a8f856e27d65",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Dwivedi\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/69cbede6-80f3-4efc-bf67-6f414484a056",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nPrerna Dhiman\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a236fd9f-5841-4bed-85b8-15fc1acace7f",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nNAMAN RASTOGI\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b5d1b571-745f-487a-9bf2-6f94be7b2818",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nNishtha Tiku\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/1f248d42-2df2-4737-8c22-3438c03e2dec",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nCollege life\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3282edb9-07ea-4566-b251-e58c91519525",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nSanchaya Kashyap\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0dfdc5dc-98a6-4010-9c73-410bf2f99307",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nPrakhar Ojha\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4e12d04e-7bd9-41ef-97f3-f374383de43b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAryan Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/7eb870be-dd31-4565-a059-2039c39e1fc5",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyank Trivedi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e45203a6-816e-46b0-abcb-e9397597da23",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMuskan Jaiswal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c5a02d76-b451-4120-bc37-3db52d213278",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\naayush kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/549178e1-2fe2-41b2-8a17-9124f9859d83",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSomya Rajvanshi \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/48f11dad-e6a4-4843-a414-4e5952b8f004",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTejaswika Pandey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/c149ab47-2726-46b8-9bca-1b4020f0615f",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nAsmit Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/be6c7ee0-531d-4b10-9527-0337076751a6",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSatvik Shukla\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/32d7ee67-3c22-4095-8e7f-bd8fb000eaa1",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nGaurav Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/8ba3a69f-d1df-429d-9478-c40b1fd77e67",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nAYUSH RANJAN TRIPATHI\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/89deb443-6dac-4ccd-a54b-0a60b7ba13e3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNaman Joshi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/d1ad3898-4d20-480d-989b-5be865cc2708",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSameeksha Purwar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0ff72cdf-0103-4396-aac4-dedd8902e6a2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRahul  Aggarwal\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n",
+      "\nInsights from Data with BigQuery\n",
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n"
+    ],
+    "badge_count": 4,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/eb59014a-365c-4bba-a751-34ec8c44919e",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  {
+    "name": "\nMarkandey Sharma\n",
+    "badges": [
+      "\nDeploy to Kubernetes in Google Cloud\n",
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n",
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/b05b51cb-1cdc-435b-91da-cd92bbe3b582",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nKAMAKSHI AGARWAL\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5b9fa6ad-4206-421b-9905-018c82b40c47",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nsidhant GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/94d46066-1ad8-4bfa-b6bf-d34674474d60",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nSneha  Agrawal \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dbe265e6-54ba-4407-b944-a35db6d8c329",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNAVEEN TRIPATHI\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/89e3e15b-7b4b-4d58-94c0-1b6272bfd2f7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nYash Ingle\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/66280840-d7ae-44f5-9345-6c8336cb7e51",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRehan  Ali\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2bea87f9-9d01-454c-a2ec-498cab95b9c9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nCodingwithPriyank GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/884b9a95-cc16-4837-8120-109b65b7b099",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nVartika  Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/36d86e4a-a2c4-457c-b8c9-2deb132bd25c",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nRoshan Raj\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/4f6ecf18-f466-47f9-8b7d-aa0c1a6ddc1a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnand Kumar Rohal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6afced6b-66b6-49ba-af7b-6d0acfe17ed0",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nSwapnika Agrawal\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0a26bef3-80de-40ba-adb5-f03628f22e80",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nShruti Sahu\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/67fa042b-e194-41cc-a81e-91bb89ef7b17",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnshuman Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/65d45aaf-fc57-412e-96f5-101432e71b78",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9b980083-1b2b-4269-bc44-47f77f74c408",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshan GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/61ff2bb4-3f31-44df-9443-896d41b4c7bd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSomashri Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3615c98f-83ab-47f6-be35-bdb2f68fd9ca",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nVINEET SRIVASTAVA\n",
+    "badges": ["\nGoogle Cloud Essentials\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/771ae3d6-62d1-4e39-9c2c-1fc87ebcf640",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nShiva Kant Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/267c55fe-dbcb-46e9-bf16-70bf45db17d8",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nfaiz farooq\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ee0fce10-a9ad-4bb4-8c4f-2ffe21ce47ab",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/95490d5f-2c1d-48f0-907a-89eac6974a4e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShiwatvi Manorama\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3ca2a23b-2d0d-4b50-a33c-e0349825dc63",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh Kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/865362b7-5b46-42ce-8ad8-30c47e21a94c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nLavi Badwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9e640c5c-6185-442d-a918-ae0fdc92e5a0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSHASHIKANT VARMA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/45db829c-d1d0-47bb-837a-e3d4895a13ad",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVansh Singhal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/41d7ab9a-f792-4254-a67f-10f863f255c2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMANASVI YADAV\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/986903bd-4012-40b0-b64a-c9af925cb739",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPramiti Sirothia\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/47116761-0893-4d6c-b652-5b22cef5c358",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nB Varshney\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/cfbf4a0e-bcaf-471e-a213-869649d9c695",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPriyam Jain\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d0bceac5-0dcc-46c1-ac37-5451c4ec8381",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nShrey Arpan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dcbe7803-c311-4531-a25b-cc59bac1832c",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nAditi Ghosh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/81c77e8a-67da-45c6-a860-0eaf0ac9950a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nUTKARSH UPADHYAY\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/bafbc070-8a49-458f-863d-5a32de74dee5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\naditya singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/346c58e4-7911-46c8-89dd-a518a5e5fac2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNivisha Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/d41e52f6-5453-43a2-b9e7-ff77f51a9d1a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTushar Anand\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/00113391-5a8e-4032-8635-f6ceedbb43c4",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nArpit Vaksh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6ebb60d9-767a-4806-87c5-81b2d85e0c68",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nPalak Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3447b95b-5cbf-46c1-9b6c-975175123af0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nPrasanna Agnihotri\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/533bb5db-c5ec-4a53-8b77-39656ab756c7",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nMohd  Affan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/aad31119-0763-4f2a-ab25-ed7199f9b181",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTabrez Khan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/508a17dd-74e0-4648-baba-f032c15a864e",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nLakshya Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9dd3631e-c024-4167-a34d-569136ac92ea",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nAman Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/487f3db1-4e33-4c38-bb16-533a12f0bee3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAditi Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/6603e080-dace-44f8-8afa-72d3cd17a5a3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShrey vashishtha\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c28ac55f-9b35-4b4c-bab3-b8869350e023",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSuryansh Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9b94fad1-05f8-4e37-bf44-fac63952d4f6",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAvinash  Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/e1a67923-4687-448d-8d63-44e05e553885",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNikki Dagar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2ac688e8-84d9-4c09-937b-83941a0157a1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nayush chauhan\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/1b7e98f6-dea5-4753-a4c3-ad175c37b042",
+    "old_badge_count": 10,
+    "status": "success"
+  },
+  {
+    "name": "\nArchit Sangal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/73659ed4-6326-4fdb-bea5-2571019bfa60",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShreya Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5a26fc24-adcd-40fb-a286-07fc284f3f85",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nAyush  Malik\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/65b76481-1a1f-4c07-a70c-e5f52d94172f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVishal Dwivedi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/6af05e64-ee4d-4256-be8f-35127578e668",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSachin Jaiswal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ab9dfb42-6c22-4295-9d8c-e393e064743f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRishabh Saxena\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/eb4bf425-d3bc-4e20-9fbd-9b0d1b4e38b0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSachin Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/224cb923-c960-40f4-a9c0-dbb824cc6fc8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSuhani  Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5337d5d3-3e12-4bf0-a539-a06aa10dded1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhishek Pandey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e262eddc-fbe8-4db1-acbd-224deb11fd2e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nLakshita Gusain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3a0d2e76-6009-4cb1-9523-0533d3c8df52",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAkshat Sodhi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c876bd45-cc18-4dae-ae38-14ddafbe9416",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArsh  Srivastava \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/648b9408-edc4-4b26-bd51-1a3d43dbb5a8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nChanchal Yadav\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/111c7755-0792-4fc0-8070-d95c7d4e2ef7",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nShruti Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bfec249a-d5e0-4ac1-8f12-829635a69bee",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nISHA  SINGH\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/16d22d11-44ed-4b3f-99db-79b93777f03d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhinav Khare\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f5703e4e-22a2-4fc1-a7d2-21370ec7923d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAfsheen Bano\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c6d9577f-5ac1-478b-97f8-e444ba7b8652",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  null,
+  {
+    "name": "\nDarshit Agarwal\n",
+    "badges": [
+      "\nInsights from Data with BigQuery\n",
+      "\nPerform Foundational Data, ML, and AI Tasks in Google Cloud\n",
+      "\nDeploy to Kubernetes in Google Cloud\n",
+      "\nBuild and Secure Networks in Google Cloud\n",
+      "\nDeploy and Manage Cloud Environments with Google Cloud\n",
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n"
+    ],
+    "badge_count": 6,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/83da127c-4311-4039-be66-cd1a882f72b5",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nChandrika Pal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/e5e4a712-12f8-4de9-a1be-84da2176ee48",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nSurbhit Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/97a7b590-5245-4d02-a4fd-522a72ca67d1",
+    "old_badge_count": 10,
+    "status": "success"
+  },
+  {
+    "name": "\nArnav Mittal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3f4a5001-a696-4d91-b7dd-a3ff8d1040cd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVipul Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2bdcf0e2-4bb3-4732-b431-cd3f2fa8ffcb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShruti Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/7edd0c88-846a-471f-b5ad-1db5cfc0ae9a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSrijit Pandey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/270043e7-d2bc-4fce-a61f-742276c5c917",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDaksh Sharma\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/106964ae-42c1-4e83-9ad8-6006b7915953",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nSahil A\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0a69707d-a821-4705-a1d5-9a1923ab5c3d",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nSahil  Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/934b2659-87db-4bdf-9660-ccbd474209a7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSparsh  Akhaury \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9cfc4bc5-ea70-435f-9cef-29f908ce9bd6",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nKARTIKEYA MISHRA\n",
+    "badges": ["\nGoogle Cloud Essentials\n"],
+    "badge_count": 1,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/7c8dd525-1d27-45b0-8425-14a5b7ff7121",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nJumpstart your cloud career\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRaghvendra Mittal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/66c7171a-14b1-4fed-8fd9-4a9f93965b98",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhishek  Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/569aad29-25d1-40ba-a781-d36d8a17490f",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nRISHAV CHOURASIA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/d4b3d3c0-1f56-4698-bcdf-c476048e67d8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubham Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/30405630-448e-4101-97f5-3610897a76dd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nUtkarsh Dhar Dubey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/a180d07c-5567-48ff-8977-6e7337738e73",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAkshat Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/499eea5b-1906-4b7d-935b-239fc534ea55",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAshish Duggal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/53ee6167-accd-4126-b614-e15d24c14902",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nKriti Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/713f612b-2274-4f2d-ac64-5af30b15f7e9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKaartikeya Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/abdbeb8c-6dc5-4fae-9b66-99c836973da4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAniket  Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b5eca83a-5be6-4c22-b4c4-610cf02ad238",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhishek Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/8e121e3f-b459-4148-93c5-ab9e5309f690",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMOHD ASIM\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/cfb4d46e-f20c-4461-a259-a67600a44176",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nNaman  Arora\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/fb5f8867-54b1-4ba7-a07d-654a72dda4cb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPriyank Garg\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/1c41d966-9593-46c7-afa8-5b010b4c680d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAmol Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/700fe980-4780-4ee3-9f04-e278d133860e",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nVAIBHAV JAIN\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0034c33e-eb52-46bd-9dfd-3d76c6c9e7af",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nANUPAM SHUKLA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2a78e888-86b1-4eab-b697-cd078b9b92c0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSamarpit Dua\n",
+    "badges": ["\nDeploy to Kubernetes in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f80fd889-9bbe-47b8-af2f-b5df4b19561f",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nRishabh Bajpai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5cec51a7-e90f-4f2c-85bd-a3a05bdaee3c",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nKrishna Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a3f1b4f5-b544-43e1-8c41-42f12e1510b5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPushkar Chaubey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f730e03a-e6e7-4981-8864-e3c6d6b3fa61",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh Bisht\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2272ec08-cbc3-4bf1-a3f8-03259dcd4746",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nGaurav  Mahajan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c78d6816-60c9-4f23-9497-7303ebd8fdd6",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nvibhor kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5300bb19-749a-4cd2-ab5b-534104143202",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSunil Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a8ecb0eb-4d14-48de-9fa1-6c58bbb1ef8f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArvind Singh Yadav\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c187c2c1-1a33-4d12-bd08-d5e4ff0231ae",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nKavya  Shukla\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8d877891-47af-4c52-9551-207f8e5a817a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTANISHQ GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4a05eeee-d361-46ae-8671-2649e6df616f",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nSiddhi Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/40fc7b77-e543-4425-9e69-761a3c80c2f2",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nShruti Nigam\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/594304b1-80ed-4d44-b568-d3f9ccb035f1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAdarsh Jaiswal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/901ffb9f-5c93-4a5f-b373-fa38f5f91a5c",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nShruti Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/ea9f0392-af1f-4bb6-ba5f-0aa21119716a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNaman  Arora\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/a1f5971b-a03b-4d8d-869b-9413f5373e5c",
+    "old_badge_count": 12,
+    "status": "success"
+  },
+  {
+    "name": "\nVritti  Mehrotra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4f6c6e8a-f5a7-46c8-8d5b-2585a7bf1686",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nUjjwal  Pandey \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/18265ae6-fc33-4ca7-bd8b-b24b907bc832",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnmol Agrawal\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/bd5fead9-8f2e-4df9-8990-5c95fba8edcc",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nPooja Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/6d1685ba-346f-40f3-991f-536e3a506b5b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhinav Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a03e2629-ccba-44cb-88ac-c1f7a97d5213",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMohd Adnan Mohsini\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3f476fe3-0500-40ba-a10f-9f55a1832b73",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKartikeya Katiyar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/016ff5a1-0965-4077-bc24-afa808bfb3b9",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhishek Maurya\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/af2ff6b1-d94c-4090-a862-eb3ea20b47dc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSHRUTI SINGH\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/614e7984-96de-4f33-82f6-44b2f484d4b3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nLakshya Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ed8a37e1-911a-43a2-806c-d976a7b0d919",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSunilSunil SinghKumar singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/7a2c034b-f447-4028-8066-9371ae380e8f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubham Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/13fe6f99-ad15-46a6-af2e-b919a1f4f88d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShreeyanshi Gautam\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/021fd51d-6b2b-4ea4-adc4-d2247d6f1953",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSaurabh Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0e15fd83-9eea-45ad-94d6-94b9a39c6f06",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPayla .\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/2bc45022-d91b-4f3b-810c-a8ec26cda625",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\n# Shreyansh Patwa\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5b8cfec7-bfa4-48d8-b44f-94772879db9c",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshit Kumar Rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9fe5a216-2aba-47e2-b572-73be05eaed34",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNiket Paliwal\n",
+    "badges": [
+      "\nDeploy to Kubernetes in Google Cloud\n",
+      "\nBuild and Secure Networks in Google Cloud\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b710f014-9305-4324-8296-174aac63027c",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nMohd Izul\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/47b34fb2-68e3-4113-9e9d-c29c0c451968",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPallavit Saxena\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/f6a1793f-9c2a-4543-bce5-5baa6b164ced",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPriyanka Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a055d0e5-9b6b-43ce-92de-4b21eaa49ad0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShashank  Shekhar Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/91bf3e83-4ee1-4ab6-aa58-c911996d0282",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nYash Grover\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/1bae89d0-3698-48cb-bc0e-a78da42a652a",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nBhumika Arora\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0a4cc79c-d637-4690-9ba0-ff4acbf371f9",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  {
+    "name": "\nMridul Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/43c61655-03b3-42f1-ac53-7575fc236fb9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKush Jindal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/55555839-5b53-4140-b352-04d0ef3a05b4",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nYash Awasthi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/20369fab-46a5-4a17-b7b4-cdd36f0ff4a9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnurag Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ed8018f6-5b37-4cc2-9c0c-d890fa54d59c",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nMihir Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4dcb9e3b-f2d4-430d-b100-7f236367a2de",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnusha Vaish\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/7698e309-d60c-452e-821e-656459eacdf2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nCyberHell GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4edab038-da93-4f6c-b8dd-c21c2c4b5ac8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nyash yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/56d39186-8e36-4b16-bc1a-c9b0119feb80",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/8f6482f1-2b39-4510-a66b-e7634cd9a343",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nSHREYANSH SHUKLA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3ce67764-c1f4-4e35-8b01-672c2ca78ba9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAastha Agarwal\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/75050038-06fd-4f49-9055-e8d72675d1c2",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nAditi Mittal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d7656c00-6e02-4319-958c-e90408998ba2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nFABIAN ROBIN\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3b6e607a-0ea0-4978-92ef-1495fc13700e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHeena  Gupta\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d06e6a73-6371-4c59-89bb-7080f65cb03f",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nRam Kumar Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b396b3a3-6344-4fca-a4e4-67682476b133",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nArpit Shukla\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/574e637a-503d-444c-91fa-727513897bb6",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVikas Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/57c1f657-534b-4794-9652-0f0d210492bf",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVivek GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/d2adb3bf-0154-4370-9c72-cfc9f12da38c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTanya Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5dc77a6c-337b-46ce-b166-e9984cf30b24",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nSiddhant Shukla\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3354e799-a8bf-44f7-b8ed-03f9865a35ee",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnirudh Joshi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9320237f-80a0-4b8f-8a41-908ee7698fc4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShreya K\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/df0c3553-365f-48ec-b5a3-2b70dcb3c334",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nmanas agarwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a4496dc7-0c9d-44e9-b063-df305a33602a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nVishal Kumar\n",
+    "badges": [
+      "\nPerform Foundational Data, ML, and AI Tasks in Google Cloud\n",
+      "\nDeploy to Kubernetes in Google Cloud\n",
+      "\nBuild and Secure Networks in Google Cloud\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0188133c-dc82-4ab2-afca-607d6d6eb107",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nKavin Kumar Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dd488d6d-3b55-484a-beed-b469c69af30d",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nAaditya Bhargav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/34384155-6dfc-4f54-87bf-b615790cc1aa",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nSiddharth Magan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b21c2b2e-2deb-4682-a63f-f1e529267210",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshika Goel\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b1baba2b-dcf0-42ad-a3af-c5e756e886bb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKARTIK VISHWAKARMA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/a2191ebe-3d5e-4926-b025-29632864b091",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShruti Singhal\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/733ac934-9f33-4255-8355-4f80b0e0bf96",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nAparna Mittal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a3bed4c3-5464-4a3e-bc9d-433c027b2960",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSupransh Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/72ec8d1f-eceb-43b8-bac8-3728fda305f0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nZeo Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f16a733e-6edb-4377-b926-fd35f2e27f2c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKalash Jaiswal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9edd7ab5-f5a6-43fd-b6a0-237a672b53df",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnurag Dubey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/fdae9e5c-32bb-49e7-8ec4-58bbb8f034cd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAruneet Roy\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/30fe571e-d92c-4e07-b0e7-6600d4edfdbb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShaquib  Ikhlaq\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9dd8acac-1e8d-4587-8d35-797d122daadc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav Mohan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/22405292-bf11-478c-b8f8-259f7cf7cc98",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nFabian Robin\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/91483ff0-1f7a-4907-aad0-6113783804a2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nParag Kapoor\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bfc4bc3d-0be9-480a-9f4a-4a849e0a1bef",
+    "old_badge_count": 9,
+    "status": "success"
+  },
+  {
+    "name": "\nAnshika Bansal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6ea32637-7ae7-4d05-b3e0-d43d072b8184",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKeshav Mittal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ae47b9aa-931d-4543-b521-22360473cb5c",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nAshwin A.R\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ecb56f98-3613-4b86-b1a6-6d87bffb7f2f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAman  Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/98edb93b-e8b4-48f9-849b-f5ac61915fd0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRitika Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8a1c50e1-906d-4290-8990-08d030c9eca0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAjay Pratap Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a0e73229-05c0-44ad-b5bf-e11dd50e74ca",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhishek Kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/859d0794-b769-4783-b032-f95384ebbe4f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nbk gautam\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8d75943d-ce30-4138-864a-617724335235",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nsaksham rajput\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ac65f44a-2866-4343-a682-d4d7f8eb9ac9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHariom Pandey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/05da42e4-191b-4916-83c0-bf9fac6e4ae3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSagar Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ebd31215-e427-4d16-9f04-3d30f4bb0deb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPrince Kumar Chaudhary\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/89343b28-4caa-403e-962a-f323a6cff634",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshit Narvaria\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8913bfa0-6251-402d-a7d8-9a0466120be3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  null,
+  {
+    "name": "\nShivansh Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3385408d-b5db-4bd0-a433-25d6d2f8845d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\njatin chauhan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/61a0650f-1f5e-4873-b90c-cf65a92f0bbc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhay Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/25bdf037-9583-4511-8c61-86facedfa2be",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNishant Kumar\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/e3912d21-6ce6-4874-8455-4c308da8ca15",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nKUSH JINDAL\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0c450142-fec5-4f2d-9941-a319a71cbb0a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShivam Garg\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0239a324-b7cc-44b9-b40a-dad067a3751e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAviral Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/48e6335f-0d8f-40b4-954b-a4c2852ab975",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSanskriti Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/92f0d18e-12b0-4978-88db-77bf67d41b7f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSoumya Kandari\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5e68f90f-23b9-436b-9ad6-7d84fe6e64b0",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nAruneet Roy Chowdhury\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b73324bd-d090-4967-a478-6915f492c4f0",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  {
+    "name": "\nTejaswa Bedi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f8b91174-47de-4485-a629-ca41229c03fd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnkit Kansal\n",
+    "badges": ["\nSet Up and Configure a Cloud Environment in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5b4ec36d-0f4c-4241-9ba3-8fc81637fb11",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nVanshika Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/fcf11382-8810-472b-9ce1-52fa8ecb87cc",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nAnjali Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/47a295dc-7360-4b7e-9391-cf8f87261cdc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRam Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/c4dfb64c-039f-4b7f-894f-968f479113b6",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAshutosh Pal\n",
+    "badges": [
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n",
+      "\nPerform Foundational Data, ML, and AI Tasks in Google Cloud\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a49592b5-5932-4914-a03f-4671ee185f7f",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh  Agrawal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5f60845d-0abc-43fd-8027-5b1910ba408c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSagar Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/12751fd7-e501-46ba-9d17-75a82f8aba7a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHARSHIT  SRIVASTAV\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0bbf83fd-49de-40f2-95f5-6770b363bcb5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPratham Singhal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/80f86b1d-53fe-43b2-a291-1a9cd4928492",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nAvnish Dayal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2f9b8aa3-766a-4adb-8652-61028fa8c422",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nFabian Robin\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b628e422-1723-4706-8f2f-b3dd3f490725",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nakshaj agarwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9d2d9536-d684-4f18-ac61-f84af61441a8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshika Bansal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d58dfbf0-f6b0-4274-a2bd-b72caec97ecd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAman Rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d8668fdd-174e-4364-aab4-c9b953b8c377",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMaharshi Dutt Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/eb4d0868-458e-48bc-b22e-91f2ab997d73",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh Gaud\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bc445fbc-6fde-49bc-bbae-af2cdc205886",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nTarushi Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9386fd8f-74d2-488e-9094-a2730b7eee3a",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nMuskaan Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/eba6645c-7cfc-48c5-b468-310c9576d44e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTanu maurya\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/be353db6-6281-4ccb-8608-adfb7cdd737e",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nkhushi sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/8a4bb69e-c20d-495f-822a-0e4eaa6668bc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nGagan Prakash Damoriya\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/026f8887-f31b-4b11-985d-d426bdab522e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhishek Rathore\n",
+    "badges": ["\nSet Up and Configure a Cloud Environment in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/b27299f7-c1c7-4e33-81f7-9bef43314d33",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nGauri Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/43c6d769-3b7a-4fc5-b7b0-4db66366e246",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nChetan Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/fb66f57b-f54a-4139-9dd9-a6188388f68b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAdarsh Jaiswal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/bf596bdc-cfa6-41fd-8faf-19dcfcd681d1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nYati Vishnoi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/200a35cb-7756-4fc6-8622-324bb9704d68",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nAnshika Singhal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/583a37d4-2be2-4a43-a651-3172eeee9ce9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  null,
+  {
+    "name": "\nSYED SAQLAIN AHMAD\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/be5cf42f-0814-4c4d-a9df-f8dc4447fe53",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nKashish Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ea824242-671f-48ed-8134-50fb7aa9d35f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAaditya Bhargav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/a21f5339-969a-4083-9c97-5d667ddbb7e2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRaman bajpai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/412d9f2d-f578-417e-9ab7-510b60a30a38",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHARSH TIWARI\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/79fc2bd2-d593-4b45-81d9-90b2cc245eed",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSHIVAM SHARMA\n",
+    "badges": ["\nDeploy to Kubernetes in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/527318f6-5024-4174-8235-dce226c06ee1",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nMansi Chauhan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d2cf216a-28a6-4533-898a-2a2217252371",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nShivani goel\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2a942661-f87c-421a-87de-aa95cb9e796a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMAGIC GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/c5b5461c-231c-42b1-939c-a2590d2ef151",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nJumpstart your cloud career\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShishir Dwivedi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/9aea203c-35b2-4065-97d9-eef6f2a9c37f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPrashant Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/28f56ef7-2b9b-4807-8aed-ee813e067f61",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnanya .\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8f1d3711-1d12-413d-90f4-99b0356eca7c",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nPragati Kumari\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5f7149a2-0bde-4cb1-886f-b1e555d7ce54",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnirudh Mishra\n",
+    "badges": [
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n",
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4dd58ddc-7dc9-4c77-a028-676b87324e80",
+    "old_badge_count": 8,
+    "status": "success"
+  },
+  {
+    "name": "\nNeelanjana Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/788a82ae-4f89-4b3d-ad85-3239c8ae842f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNistha  Jain\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/f89c1bbc-9c42-4fc1-a17a-8913ce503414",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nParween Khan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3812a1e6-7a6e-4a5c-8775-269e3794a8af",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nMaitri Katiyar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4329df36-baac-4c1a-928f-3195362fa136",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShivanshi  vaish\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8f054e7f-390a-4352-9de3-05c80b9e8412",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSiddharth Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/45ddbf68-982f-419e-a547-800c4b8fddec",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMukund Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/164c0030-6ca9-41b0-b20d-78cff6c528a1",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nAugutsya Pandey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/148e29a9-4c95-46ef-a016-189404a22f37",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nRAjput Jatin\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ba2b94b3-e57d-4d32-83cd-a684999cea3f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKuldeepak Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/078ce3c7-19ba-4d84-aee5-10752488d996",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nsuyash chandra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/074adab7-10e4-4d8d-bc0e-0ae3b0dc4ae2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshita Khurana\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bfa23246-995b-4e63-b01e-16d29b518286",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nAshutosh Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/aa239765-2f88-4747-993a-8e1e15414509",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMilan Rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d3987100-c556-4a3d-bdd8-9419ef10f2b9",
+    "old_badge_count": 45,
+    "status": "success"
+  },
+  {
+    "name": "\nRohan Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/395a0aee-80c7-405a-abd3-feeb0a4d5000",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKishan Jayan\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/4f33354b-bcd9-4212-9269-553ba97b0c65",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nIshanki Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/483ecf22-92da-4e0c-9760-ec202dac8ca0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nJohn Snow\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3acd28bb-084b-496f-971e-fb152c49720a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnant Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b8a343d3-7419-439a-8c90-7d81eb8ed42a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRaj Tyagi\n",
+    "badges": ["\nGoogle Cloud Essentials\n"],
+    "badge_count": 1,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/d1677368-44b4-403d-9e6f-689b1041a98f",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nUtkarsh Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b8ac8ce4-710f-42b5-b1f9-f6427d0f1121",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nswatantra pratap singh\n",
+    "badges": ["\nCreate and Manage Cloud Resources\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a04028e9-6dfb-441d-b773-0f739f2470be",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nsameer khan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f8968ec7-cd76-48de-8329-351a96fc3c51",
+    "old_badge_count": 12,
+    "status": "success"
+  },
+  {
+    "name": "\nUtkarsh Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8bad2b99-c03d-41b2-80a4-26065dee66d2",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nDEVRAJ RATHORE\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0fd74419-1925-4299-99f7-0415cc28e44a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSatyam Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/a1b14a93-7d34-4862-9323-16bdc48bb85e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSagar Singh\n",
+    "badges": ["\nGoogle Cloud Essentials\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d11fcc08-b0e8-4441-9cd7-c89e317f9c57",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nShivendra  Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/d5fa754c-ee31-4a2b-9f21-62c1c59b3c21",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMuhammad Haris Jafri\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dd08dc83-3901-4c8b-816d-b5ae9c539135",
+    "old_badge_count": 24,
+    "status": "success"
+  },
+  {
+    "name": "\nayush singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d6064829-fd0a-4139-89ec-d4b3cd08d90b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAyush Kumar Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/24988faf-b9c6-4308-ace0-419105e83c24",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nManish GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0d71e5fc-99ae-46b2-b1ca-6d3f0589da2b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAshwin Perti\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/974a67cf-7a07-49c6-9b70-d9c2196ca5b1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMohammed Yaseen\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0a02787a-2551-4b3b-9637-100eefd0bcef",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshit Kushwah\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d3f124f7-38c1-4e54-a95d-cd4291b95d4d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyansh Parashar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/0724dc64-2d10-440b-9939-1b36898aa4fc",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nAkash Chaturvedi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/c1cc5d03-d313-448f-af42-ed952b0cd780",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nANMOL MITTAL\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/00831b9a-2d74-4926-b8ab-cae1a182f152",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNikhil Tiwari\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/7d39fd98-0e08-4579-9f86-b76d1ccaea8b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAradhy Tripathi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a5bb7ce3-e813-4001-8632-e0dc8c88cb49",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMohammed Fahad\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/7577256f-cebd-4b3a-a040-984f1c1ad813",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnkita Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://googlecloud.qwiklabs.com/public_profiles/25a91a6a-ab40-4289-92f3-62eb114c01c4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAkash Gola\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/72c9520d-60b3-4884-9963-9f42713106a0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nsHiVaM sHaRmA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8b97374f-e181-4f28-8a04-6c86949ff5f2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nayush gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ac4959cb-3329-41d2-a850-d1098cf6e62b",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nUdit Garg\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2a218faa-8772-4eb3-89e5-ce6f68a6ae38",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyam Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/7b28d416-d21b-485d-9022-bdf7385c5023",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhinav Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d074767a-c96c-4e2c-b56b-060ecef392dc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShivani Rawat\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a8028d52-12c6-4485-8366-1da0a840157c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nyash bhardwaj\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/979601d3-3989-47a1-b52d-c2421ac1508c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nManish Arya\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/f392efd4-44ad-4277-a144-45982e468653",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nBhavya Jindal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6b12f4c2-6f57-431d-8832-0491b0298092",
+    "old_badge_count": 9,
+    "status": "success"
+  },
+  {
+    "name": "\nVibhu Nohria\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/85580230-1b1b-4bba-8f07-3c5ec06cbf03",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nSuraj Bhatt\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3e6a7f4d-dfd4-4717-8269-249408bb0080",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArchit PAL\n",
+    "badges": [
+      "\nDeploy to Kubernetes in Google Cloud\n",
+      "\nInsights from Data with BigQuery\n",
+      "\nPerform Foundational Data, ML, and AI Tasks in Google Cloud\n",
+      "\nBuild and Secure Networks in Google Cloud\n",
+      "\nDeploy and Manage Cloud Environments with Google Cloud\n",
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n"
+    ],
+    "badge_count": 6,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a334bad0-c62a-4f7a-9f97-8805a2741532",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nVibhanshu Jaiswal\n",
+    "badges": ["\nSet Up and Configure a Cloud Environment in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d252d2b5-e101-4946-bea3-029eb52024a7",
+    "old_badge_count": 10,
+    "status": "success"
+  },
+  {
+    "name": "\nUtkarsh Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/4fd23d3a-27d0-4504-b0ec-20aadf338b78",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nRaghav Sharma\n",
+    "badges": [
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n",
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nGoogle Cloud Essentials\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/586dadd6-c5cd-494e-b2c6-64e112bd12b6",
+    "old_badge_count": 12,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.quicklabs.com/public_profiles/05b3890f-0b3c-4bc8-b2ca-e8be85eebeff",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRAGHAV SINGHAL\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bc6e5a55-eb7d-4277-96a5-5602db56fcd7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubham Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b1e0094b-6a07-4f0a-8c2a-d6b0e056f5e8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSuraj Prajapati\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/275f2c13-ea7b-4166-9afa-ca7fc2a14866",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMovie Hub\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/91edf9b9-cf98-48a9-a5ae-b5ed07da83f7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRAGHAV SINGHAL\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/06b325c1-5db4-4ebd-a119-258091742d1c",
+    "old_badge_count": 8,
+    "status": "success"
+  },
+  {
+    "name": "\ndeepansh kumar\n",
+    "badges": [
+      "\nCreate and Manage Cloud Resources\n",
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/decc71cf-79c0-494f-b50e-fc08bc84f2d4",
+    "old_badge_count": 8,
+    "status": "success"
+  },
+  {
+    "name": "\nsachin GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/cfe70fa6-097f-4649-b747-7354a2efdbef",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nPRABHAT SINGH\n",
+    "badges": ["\nBuild and Secure Networks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/44fadb8e-ab0d-4984-a4fe-45f0c076b124",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nChandan  Shukla\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a096a815-1074-40b8-acd1-904daf714a78",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMohit Singh Chauhan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5d697c5f-901b-454b-b27e-87f84dbd375c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nJahnvi Srivastava\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/ff2f8bd0-a4a1-4e88-bb87-9584f3e84e1a",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nIsha Tandon\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/697ca138-ca63-4aeb-a472-e4ad04a2a2c3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPrabhu Raj Vansh\n",
+    "badges": [
+      "\nDeploy to Kubernetes in Google Cloud\n",
+      "\nBuild and Secure Networks in Google Cloud\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/17a1f114-8adb-4693-9713-e7375e37792c",
+    "old_badge_count": 8,
+    "status": "success"
+  },
+  {
+    "name": "\nHarshit Singhal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/7bf4b56b-7d45-488d-b846-c2d8d71074df",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRaghav Shah\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5f332eaa-7aa4-4463-a98b-d29171cf2417",
+    "old_badge_count": 8,
+    "status": "success"
+  },
+  {
+    "name": "\nashish gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/70564edc-b51c-4722-81c4-37b62586fe45",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKumari Puja\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/abb26324-c412-436a-81dd-7adef41d0b21",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnimesh Kumar Vashisth\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/1a38589d-44c4-4df8-860a-61a36165fb89",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nSutap Pandey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/deeadc8a-ba53-4eef-95c4-bf5610995800",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/740ae7bb-f1e2-49c7-babd-840ec6093444",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nLAKSHYA DHAWAN\n",
+    "badges": [
+      "\nInsights from Data with BigQuery\n",
+      "\nPerform Foundational Data, ML, and AI Tasks in Google Cloud\n",
+      "\nDeploy to Kubernetes in Google Cloud\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/de3c1bfc-2247-4302-befd-01edf09cb58e",
+    "old_badge_count": 13,
+    "status": "success"
+  },
+  {
+    "name": "\nMohammad Arsalan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5d552f56-a127-43a5-8509-ea3eb628e803",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nABHINAV AKASH TRIPATHI\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e8ca9b61-075b-4ecf-9b6b-2835901ccb09",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRohit Kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/b9a218e9-5da2-4624-a10e-556cff2eb442",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAmber Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2729da79-1296-4976-a56e-aeef2df8f2d7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nJayash Raj Singh Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8e5d68dc-b1f3-4dd0-ae75-4ab3ef92f337",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Dubey\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/846c50cf-c410-4cef-bfe7-908ca289631c",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nNikhil Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5c9292e2-079c-4be7-9c01-c3135d7b1d59",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAKSHAY KUMAR SINGH\n",
+    "badges": [
+      "\nIntegrate with Machine Learning APIs\n",
+      "\nEngineer Data in Google Cloud\n",
+      "\nInsights from Data with BigQuery\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/95c90540-e899-4d78-88ca-a82d91f5f9bf",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nParas Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ecc553d0-c350-4687-8b1f-13c4225818d3",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRakesh Mehto\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/00792ba0-a00d-4495-92e6-c76fd656f9e5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPriyam Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a3130029-9bc0-4976-87f7-f631fc1de29d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNikhil Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0e6a49e3-6ca7-413d-b57a-d66004d9f64e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nBhavye Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0c81ce21-bce3-4ff9-8c53-16e33ba3ab18",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nMansi  Rao\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/ab33257f-5d67-4417-9fc5-ac4cc5c988f4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSamarth Rana\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/a51384ff-7d19-43e6-a5dd-1394abef00cf",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshika Yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/d17e700f-e194-4a33-a54a-0507f56aed8d",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhinav  Gangwar \n",
+    "badges": [
+      "\nInsights from Data with BigQuery\n",
+      "\nPerform Foundational Data, ML, and AI Tasks in Google Cloud\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/5d875a12-f191-494c-98fd-db7cd9c76961",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nAishwarya Srivastava\n",
+    "badges": [
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n",
+      "\nCreate and Manage Cloud Resources\n"
+    ],
+    "badge_count": 2,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/7f26c722-9b7a-49fb-96e3-01b3c55cce4e",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nAnuj Shakya\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8a44955b-5437-44d6-85ab-82350040d078",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Kumar Srivastav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/74e2dc9b-db72-4a14-823e-9f3993313637",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e3334e18-d95c-4227-b7a2-d9bc233fa8a4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nkartik saini\n",
+    "badges": [
+      "\nInsights from Data with BigQuery\n",
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n",
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/e7e59007-4a9a-4b37-adb7-34c4e5b4da33",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nBhuvneshwar Prasad Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f3b8448a-3c8d-4988-8e82-dceedf3e938b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAbhi GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/09142ae4-2915-4dd5-b9fa-696e88622426",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSaqlain Raeen\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "http://www.quicklabs.com/public_profiles/62701202-23e6-4ba5-9440-282382575174",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAmrit Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bae45ec4-8cd5-47df-8185-c9a28efc8612",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyanshu Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/144a4372-8acd-4c37-ad4b-e22f12a4d57a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHardik Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3b35071d-35d8-4b06-97c7-8b1c0da3e24d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshaan Tyagi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/7e89a349-83c0-4060-be8e-11cb3b2b11e7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVeom Nohria\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/19db6794-e21e-4a7a-99ea-f956f164e55d",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nKshitiz Chaudhary\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/10b6cdbc-0cb3-4bf7-a982-50a3aba8b2a2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubham Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2c78fd83-749a-413a-a6fb-daad80ba2cff",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nAkif Hoda\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d03c48a1-ce01-4bfc-a643-298ca58224da",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nInjila Ali\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/713735d2-eb66-4b33-9adc-745bc9b0ec20",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVISHAL SHARMA\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3116abd8-f3a6-4cc6-b936-a69328ae5f5d#",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nPalak Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3c863b0f-45a8-4bc8-b5c2-f0ff8a6c5602",
+    "old_badge_count": 10,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nAyush Kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bc852192-8e59-4a13-b903-7b34adb88768",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nSarthak Negi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8b39e26f-cae8-48e1-aa70-95957284c6bb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAyush Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/35efc94e-ae8c-4db4-9fdb-6bf714027132",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nAarushi Rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/87e8d521-440c-4579-a779-cf498a3db692",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSanjana Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/603df9be-e8c2-4d63-a40f-1c8946cae8e0",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nvishal sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e2a087f2-2902-4bbc-ae85-eb8b77eb81ad",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nKaushal Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/9f98176a-a52d-4889-a12e-6c88a9ffe0d4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nBhuvneshwar Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/b230e889-a6c3-418b-81db-da963fd7f084",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshita Rishi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/68d023a3-3d58-47f6-aaa0-9f66cb22978b",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubh Shrivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ce454e93-e22b-40d1-af18-00426e6ac744",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPankaj Sati\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b3b48078-fa6a-4927-8c76-318bdf1b47d5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTanmay Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/cabf36c2-3821-4ccf-bbb4-cc083076dc67",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nGautmi khanna\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/1fa45e11-9363-4ff5-91bf-975680b1023a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAs Duggal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/cdcc0fc0-55df-4f46-9dc2-2f285f5db313",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNitin Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8cc0d89a-a270-413d-9052-ef9e90568be9",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nZestor Panda\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/610dd671-4366-44e7-9583-f1e4f867ca1a",
+    "old_badge_count": 8,
+    "status": "success"
+  },
+  {
+    "name": "\nAnshika Agrawal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/602468e5-2170-42ec-9700-01a98bc55960",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nAman  Chauhan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/633ac489-cde5-4f5a-8a9f-0b11c78662ed",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/d8749024-8bd9-4608-b2ea-796a232e4491",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubhankar Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/23526e2d-f3c2-4765-ab64-59016df20d15",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSomesh Bajpai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/1d3f90e0-1ab2-448b-b120-4e4408c81e63",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArjit jha\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5bf2c41c-d861-45f8-afbf-915ed2204ccc",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMohit Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e7829edd-eb2f-4877-841e-bac6e91d9b9a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nTanveer Raza\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9130c8eb-6c22-432b-aef9-4ea97f62eacd",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMihir Upadhyay\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/772a181c-4916-4a94-bd55-a84dceab1ce9",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nIrshan Akhtar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/cda0f570-c396-4514-8815-a1673dd574d7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVedant Bhatt\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/5cf2ae87-c58b-48d3-941f-d085b4b057f0",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nkartikey agarwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4a7fa66e-1a21-4b44-88b4-3910c5e4f814",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nUtkarsh  Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/25255c91-ac88-45e6-991d-5ed4e44ee19c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSamarth Rana\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6474f0e1-325e-4322-b97f-cb3385588adb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAMIT KUMAR\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/293315cf-4e25-433b-82e0-436fb58d5aa8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nGeetanjali Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a463ae76-0282-4b8e-98c7-e295821ead7f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRitik Kumar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3fcc9894-efea-4a83-b21a-eb17fe3367d5",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDushyant Dk\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/65662511-9e76-47a7-9e63-18c3fe7dcf54",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAmritesh Sahu\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8c9bb068-8b30-40b8-9d60-aefd8f4b1fc9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPooja Madhwani\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2c3ab8e1-5dca-49ea-88c1-783de79dca02",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDeepak Soni\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3ca48113-88b9-49bc-80e0-1d5a721e3483",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVaibhav  Sharma \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/860d6c1d-47fc-4171-86a5-5d198f5380f1",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  {
+    "name": "\nManish  Tomar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/acc45e06-45cd-41de-a073-8fe2b85f4e1a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKrati Agrawal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dbd60014-fe9d-496c-bd27-3aa1e8542890",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSanchi Singhal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/60624420-90f5-494e-9669-120c41218427",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKhushi Chaudhary\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dd3fa36c-fea9-454e-ac18-821ffff7c0da",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nprachi varshney\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/67ad3cd7-8a71-4a11-be42-249041f2b244",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVikas Pargai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/7c90132c-3274-48c0-a15a-d358ca8f1ad1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nOm Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8f67ad68-c3eb-43f9-bae6-278f6488f38c",
+    "old_badge_count": 5,
+    "status": "success"
+  },
+  {
+    "name": "\nAman Agarwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/0db0bfbd-a083-4939-8836-c1fbb3198e03",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKashan Sheikh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/74a3c1fc-1f14-4eea-ad9a-f13b257a3a37",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVibhav  Jaiswal \n",
+    "badges": ["\nSet Up and Configure a Cloud Environment in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/8223cca9-f519-490e-9ec0-101bd3e43f5a",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nNandini Maheshwari\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b8ed5a80-7eb6-4636-b03a-55c4a83def9e",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nchirag yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4e5b8b0a-93d5-4aad-901c-3f69eb1f5cf7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSami Khan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/8115ad6c-3e92-47ba-a441-0cd4dbf39995",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShashank Varshney\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ffd6fa5f-3381-4943-908f-472ce7798094",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nPrabhjeet Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8a0950e1-1d55-4c85-af57-31379af79152",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMohit Varshney\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2a4a73a6-2e2c-47a0-bdb0-009ae0c3f457",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nAnshul Negi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/6275f0a9-e953-4d39-9586-2be43cb4a81c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShashwat Pratap Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/b080dc04-c7e0-449c-aa8b-31910244b9c9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKush Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/48c7049f-05c5-44b4-9df9-1b9f358b695a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRachit Sharma\n",
+    "badges": ["\nPerform Foundational Infrastructure Tasks in Google Cloud\n"],
+    "badge_count": 1,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/137072c1-e569-47d3-b56e-bc8f9efd3d3f",
+    "old_badge_count": 7,
+    "status": "success"
+  },
+  {
+    "name": "\nSomesh  Verma \n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://run.qwiklabs.com/public_profiles/435249ea-4a73-40fa-9212-a36114bd0708",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nWhite Devil\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/4127c3a7-5d4f-4232-9e4a-567bd318361c",
+    "old_badge_count": 3,
+    "status": "success"
+  },
+  {
+    "name": "\nprabhat yadav\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/01260044-7c15-4878-9f74-009cf1085980",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nADITYA GARG\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/0737d308-4940-4630-9b13-606bc5f2b3ef",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAli Afaq\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/8b7a2f1f-90cf-4252-9f8f-50f6cd3e72dd",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nISHA MUDGAL\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9a400bb8-b43f-4f2d-8834-3dfc0b76f560",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nYogyata garg\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/fd5c9eab-379a-4091-8e69-01612a2d4030",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRajendra Prasad rai\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bd5b115d-7b32-4acc-890f-d92517247856",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKavya Verma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/93b1a388-c1c7-4339-938a-ffb25f01b7c3",
+    "old_badge_count": 6,
+    "status": "success"
+  },
+  {
+    "name": "\nDeepak Chaudhary\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/da378d02-4955-4611-b617-c21f2eff7980",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Garg\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/cb3072cf-d48f-494b-b452-c7fea3fa051d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSatyam Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/0f837e0b-e079-4ef8-aec6-61116ab57ba4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\ndhruv singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/49161dce-da45-4358-acb7-33acbd25b813",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyam Bhakuni\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2c356e52-74c4-4758-8096-882042165fb7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDevesh Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/cea898d7-12d8-46a1-aaad-6c01f1cb96f2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAryan Porwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/b13e0a1d-0e1d-4bc2-a111-a255cd6f92c4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRavi Ranjan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/d76ce349-4d01-4bb2-b16e-57f9c9006e11",
+    "old_badge_count": 4,
+    "status": "success"
+  },
+  {
+    "name": "\nVraddhi  Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/6a77bee0-f550-4246-961b-a45e40cd0916",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRiya Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/bf0611a0-866c-43d3-ac76-04ded40815f0",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nAkash Rajpoot\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/ca482ad6-ba6a-424e-a2e0-4845f044e382",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVineet Rawat\n",
+    "badges": [
+      "\nDeploy and Manage Cloud Environments with Google Cloud\n",
+      "\nSet Up and Configure a Cloud Environment in Google Cloud\n",
+      "\nPerform Foundational Infrastructure Tasks in Google Cloud\n"
+    ],
+    "badge_count": 3,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/95f2b54e-2da9-42fe-8734-66e3bd9d2684",
+    "old_badge_count": 11,
+    "status": "success"
+  },
+  {
+    "name": "\nMayank Dosar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/3033f275-9b03-4bac-bdcc-144ab639bd29",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nShubh Khandelwal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/dfa46736-6b6a-413e-9f96-7d871c9825c8",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nHarsh saini\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/3e4deee0-940b-4633-8167-8956dcfb3aa6",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nmohd faisal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/4870d420-1bf5-404a-8e14-c40ece8c0cc9",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSrishti Rastogi\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/b5a108f0-e66a-4cda-b6bb-86dd723bbafe",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nPranshu Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/2f4d5612-8d7a-440e-b16d-2ef190e2d877",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArnav Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/2af2c16c-bc85-4e42-baea-a5310a94868d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPrakash Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/995ab402-18a7-4861-883a-16606c004fa1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nRishabh Srivastava\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/906d1d65-6774-41ef-8a9f-ee245a995ed7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nshreyansh sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/e3189ec2-80d1-4457-9cbe-211ad16b79c2",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyansh Tayal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/20b2b081-fef6-48dc-93d0-1a8342d79ea1",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnurag Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/d64f368a-9409-4b12-9ab6-06ea6033c466",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nBeats Mania\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/950e247a-8bbb-4f0d-b239-0e5fbb545897",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVaasu Bisht\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/45fc6ba7-2b68-4f63-971e-e1bacdac5bbb",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnshika Agrawal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/a0528289-87f8-4d35-9671-d9521f7f350f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nChetan Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/cb4cebf7-8b8e-4ac4-a5fb-f2cbbb2d7e6c",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nMukul Upadhyay\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/42ca647c-a484-43ba-8a79-ab5b311c7432",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nNimish  Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/a4b99ae2-cbd2-406a-9d89-551dba533e4f",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nAmit Tiwari\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f7c8b515-7e54-4357-bc87-550f375f4ae4",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArpit  Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/27bb9f88-d5cd-4ca3-9a06-13be01c71cfa",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nParas Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e91e7b8e-a5c7-4d21-8e1d-a6ccbe47278d",
+    "old_badge_count": 2,
+    "status": "success"
+  },
+  {
+    "name": "\nDivyarth Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/9f9f3a03-408d-4307-b998-29e56dd11834",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nJALAJ SINGH\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/793e43ee-0f95-48a3-86d5-06e8697f8234",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nSomya Shukla\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/7c0ac424-52d8-4d47-9977-f841736120d7",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nVasudev Soni\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/f7735304-ae97-4c82-bec0-da428e51ed2a",
+    "old_badge_count": 1,
+    "status": "success"
+  },
+  {
+    "name": "\nNaman Jain\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/c6b419b8-4118-4964-8093-7cada2b22886",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nChirag Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/86263d7a-e483-4913-8b8e-1190bc391216",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nPawan kumar Mishra\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/f2c06b01-5959-441d-9fda-5a4cec86d851",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAnmol Gupta\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/6ade43bd-ca37-4cc8-973d-fc15b7773d48",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  null,
+  {
+    "name": "\nDivyanshi Pal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/48b1a8c1-5d21-4574-8c5d-1340c8f34740",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nKanishka Nagar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/213e5882-3e7e-43e7-9296-5afd988cee3d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArsh GOOGLEUSER\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dbbe3d62-75e2-42e5-8a42-364c3eb6ea68",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Mittal\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/e6142534-5a72-488f-95ee-744fd4ff4d6d",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nIshaan Choudhary\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/167b6aaa-4d7e-416d-9c7a-11f36fbf25be",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nAditya Mazumdar\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/80202ebd-795f-409f-9523-2b2073c834fa",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDeepanshu Nirvan\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/e6e72f1d-50df-4f43-8962-746f9586224a",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nArjun Sharma\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/5bc16f3f-c676-41f5-bfea-00e5c1c1be52",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDipesh Singh\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://www.qwiklabs.com/public_profiles/69013778-1d8d-448f-97ee-100b88ed569f",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nGaurav Bisht\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google.qwiklabs.com/public_profiles/dcf239f9-dd4b-414c-bf21-d089c2e5ca88",
+    "old_badge_count": 0,
+    "status": "success"
+  },
+  {
+    "name": "\nDharmendra Kuamr\n",
+    "badges": [],
+    "badge_count": 0,
+    "profile_url": "https://google-run.qwiklabs.com/public_profiles/244d7d3a-5c5c-423d-9175-39285f8dbdfd",
+    "old_badge_count": 0,
+    "status": "success"
+  }
+]
